@@ -1,0 +1,4 @@
+- 👋 Hi,
+- 👀 I’m interested in working with Hardware and connecting it with software, designing hardware.
+- 🌱 I’m currently learning Blockchain 
+- 👯 I’m looking to collaborate on interesting projects 
